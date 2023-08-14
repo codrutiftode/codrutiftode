@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi, I'm Codrin 👋
 
-- 🎓 third year student of Computer Science at University of Edinburgh
-- 💻 part-time front-end developer, most experience with **React** and **Next.js**.
+- 🎓 Third year student of Computer Science at University of Edinburgh
+- 💻 Part-time front-end developer, most experience with **React** and **Next.js**.
 - 🔎 Looking for freelancing / internship opportunities
 
 <!--
