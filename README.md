@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🎓 studying Computer Science at University of Edinburgh
-- 💻 part-time front-end developer, most experience with React and Next.js.
+- 🎓 third year student of Computer Science at University of Edinburgh
+- 💻 part-time front-end developer, most experience with **React** and **Next.js**.
+- 🔎 Looking for freelancing / internship opportunities
 
 <!--
 **codrutiftode/codrutiftode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
