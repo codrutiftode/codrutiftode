@@ -1,8 +1,10 @@
-### Hi, I'm Codrin 👋
+### Hello there. I'm Codrin 👋
 
-- 🎓 Third year student of Computer Science at University of Edinburgh
-- 💻 Part-time front-end developer, most experience with **React** and **Next.js**.
-- 🔎 Looking for freelancing / internship opportunities
+- 🎓 3rd year undergraduate of Computer Science @ University of Edinburgh
+- 💻 Part-time front-end developer, most experience with **React**, **TypeScript** and **Next.js**
+- 🔭 Average enjoyer of functional programming in **Haskell**
+- 🌱 Currently learning *programming langage theory*, *systems programming* and *compiler design*
+- 🔎 Looking for freelance / internship opportunities in creative projects
 
 <!--
 **codrutiftode/codrutiftode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
