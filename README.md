@@ -1,10 +1,11 @@
 ### Hello there. I'm Codrin 👋
 
-- 🎓 3rd year undergraduate of Computer Science @ University of Edinburgh
-- 💻 Part-time front-end developer, most experience with **React**, **TypeScript** and **Next.js**
-- 🔭 Average enjoyer of functional programming in **Haskell**
-- 🌱 Currently learning *programming langage theory*, *systems programming* and *compiler design*
-- 🔎 Looking for freelance / internship opportunities in creative projects
+- 🎓 Final-year undergraduate of Computer Science @ University of Edinburgh
+- 💻 Dependently-typed programmer in **Agda** and **Idris 2**
+- 🔭 Functional programmer in **Haskell** and **OCaml**
+- 🔎 Effectful programmer in **Koka**
+- 🌱 Looking for creative projects in *programming langage theory*, especially related to *dependently-typed languages*.
+- 💻 (past): part-time front-end developer, experience with **React**, **TypeScript** and **Next.js**.
 
 <!--
 **codrutiftode/codrutiftode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
